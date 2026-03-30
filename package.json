@@ -1,0 +1,6 @@
+{
+  "name": "chere-backend",
+  "version": "1.0.0",
+  "description": "Chère API proxy — keeps your Anthropic key safe",
+  "private": true
+}
